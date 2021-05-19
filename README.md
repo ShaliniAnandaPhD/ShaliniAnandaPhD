@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShaliniAnandaPhD
-- 👀 I’m interested in machine learning applied to healthcare, materials science and scaling of biofuels
-- 🌱 I’m currently working on creating models for commercial use
-- 💞️ I’m looking to collaborate on reinforcement learning
+- 👀 I’m interested in machine learning applied to healthcare, materials science and scaling of biofuel production
+- 🌱 I’m currently working on creating models for commercial use in above areas
+- 💞️ I’m looking to collaborate on reinforcement learning or crypto
 - 📫 You can reach me at anandamide.ventures@gmail.com
 
 <!---

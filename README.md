@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @ShaliniAnandaPhD
-- 👀 I’m interested in applied machine learning
-- I teach machine learning at UCSC Silicon Valley Extension and UCSD Extension
+A few pet projects

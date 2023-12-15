@@ -1,1 +1,1 @@
-ML in Healthcare, Matrials and Sustainability
+ML in Healthcare, Materials and Sustainability

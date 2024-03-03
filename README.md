@@ -12,7 +12,7 @@ Diving into the world of AI with projects that tackle real-world problems! Check
   
 - **Pixel Pioneers** 💡: Transforming cutting-edge GenAI/ML research into practical uses.
 
-Outside GitHub Ventures:
+Projects outside GitHub:
 
 - **Anandamide Sound Machine** 🎵: Crafting tunes with AI.
   

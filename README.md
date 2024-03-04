@@ -4,7 +4,7 @@ Diving into the world of AI with projects that tackle real-world problems! Check
 
 - **ISBRT - LLM Redteaming** 🛡️: Boosting LLM security with creative adversarial methods.
 
-- - **Pixel Pioneers** 💡: Transforming cutting-edge GenAI/ML research into practical uses.
+- **Pixel Pioneers** 💡: Transforming cutting-edge GenAI/ML research into practical uses.
   
 - **Synthetix** 🤖: Experimenting with vision tools for robotics.
   

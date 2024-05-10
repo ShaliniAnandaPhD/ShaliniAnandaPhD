@@ -5,6 +5,8 @@ Diving into the world of AI with projects that tackle real-world problems! Check
 - **ISBRT - LLM Redteaming** 🛡️: Boosting LLM security with creative adversarial methods.
 
 - **Pixel Pioneers** 💡: Transforming cutting-edge GenAI/ML research into practical uses.
+
+- **EMBER**: Your AI-powered lifeline during wildfire emergencies, providing personalized evacuation guidance when every second counts. 🔥🆘
   
 - **Synthetix** 🤖: Experimenting with vision tools for robotics.
   

@@ -22,3 +22,5 @@ Projects outside GitHub:
 - **CRIXLabs** 🏥: DBM for Drug Discovery (my first startup).
 
 Let's innovate and make a difference! 🚀
+
+Dedicated Twitter account for this profile started in 2024 : https://twitter.com/SynthCircuit

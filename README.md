@@ -5,7 +5,7 @@ Diving into the world of AI with projects that tackle real-world problems! Check
 
 - **Pixel Pioneers** 💡: Transforming cutting-edge GenAI/ML research into practical uses (tackling everyday issues with GenAI and ML)
 
-- **Sea Sifter (Systematic Identification of Floating Trash and Environmental Remediation)**: Transforming cutting-edge GenAI/ML research into practical solutions for tackling microplastic pollution.
+- **Sea Sifter (Systematic Identification of Floating Trash and Environmental Remediation)** 🌊: Transforming cutting-edge GenAI/ML research into practical solutions for tackling microplastic pollution.
 
 - **EMBER**: Your AI-powered lifeline during wildfire emergencies, providing personalized evacuation guidance when every second counts. 🔥🆘
   

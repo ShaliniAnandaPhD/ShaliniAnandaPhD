@@ -3,7 +3,7 @@ Hey Everyone! 🌟
 Diving into the world of AI with projects that tackle real-world problems! Check them out:
 
 
-- **Pixel Pioneers** 💡: Transforming cutting-edge GenAI/ML research into practical uses (tackling everyday issues with GenAI and ML)
+- **Pixel Pioneers** 💡: Transforming cutting-edge GenAI/ML research into practical uses (tackling everyday issues with GenAI and ML). Use cases interest ML X Healthcare, ML x Materials Science, ML x Sustainability
 
 - **Sea Sifter (Systematic Identification of Floating Trash and Environmental Remediation)** 🌊: Transforming cutting-edge GenAI/ML research into practical solutions for tackling microplastic pollution.
 

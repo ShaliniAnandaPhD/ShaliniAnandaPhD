@@ -1,29 +1,24 @@
 Hey Everyone! 🌟
 
-Diving into the world of AI with projects that tackle real-world problems! Check them out:
+AI Projects Tackling Real-World Challenges 🌟
 
+Award-Winning:
+• Refactor Earth - AI Engineer World Fair Hackathon winner: Optimizing code to reduce digital carbon footprints.
 
-- **Pixel Pioneers** 💡: Transforming cutting-edge GenAI/ML research into practical uses (tackling everyday issues with GenAI and ML). Use cases are in ML X Healthcare, ML x Materials Science, ML x Sustainability - 100 tutorials and counting! 
+Research to Practice:
+• Pixel Pioneers 💡: 100+ tutorials applying GenAI/ML to healthcare, materials science, and sustainability.
+• Sea Sifter (SIFTER) 🌊: GenAI/ML solutions for microplastic pollution.
+• EMBER 🔥🆘: AI-powered personalized wildfire evacuation guidance.
 
-- **Sea Sifter (Systematic Identification of Floating Trash and Environmental Remediation)** 🌊: Transforming cutting-edge GenAI/ML research into practical solutions for tackling microplastic pollution.
+Experimental:
+• Synthetix 🤖: Vision tools for robotics.
+• AI Sustainability Agent 🌱: Eco-awareness chatbot.
+• ISBRT 🛡️: Enhancing LLM security through adversarial testing.
+• Mythrul 🌍: Exploring sustainable blockchain solutions.
 
-- **EMBER**: Your AI-powered lifeline during wildfire emergencies, providing personalized evacuation guidance when every second counts. 🔥🆘
-  
-- **Synthetix** 🤖: Experimenting with vision tools for robotics.
-  
-- **AI Sustainability Agent** 🌱: My debut chatbot promoting eco-awareness.
+Beyond GitHub:
+• Anandamide Sound Machine 🎵: AI-assisted music creation.
+• CRIXLabs 🏥: Drug discovery database management (first startup).
 
-- **ISBRT - LLM Redteaming** 🛡️: Boosting LLM security with creative adversarial methods.
-  
-- **Mythrul** 🌍: Exploring blockchain's eco-impact and seeking sustainable solutions.
-
-
-Projects outside GitHub:
-
-- **Anandamide Sound Machine** 🎵: Crafting tunes with AI.
-  
-- **CRIXLabs** 🏥: DBM for Drug Discovery (my first startup).
-
-Let's innovate and make a difference! 🚀
-
-Dedicated Twitter account for this profile started in 2024 : https://twitter.com/SynthCircuit
+Innovating for impact! 🚀
+Twitter: @SynthCircuit (est. 2024)

@@ -1,33 +1,33 @@
-Hey Everyone! 🌟
+# AI Projects Tackling Real-World Challenges 🌟
 
-AI Projects Tackling Real-World Challenges 
+## Award-Winning
 
-Award-Winning:
+- **Refactor Earth 🌿**: AI Engineer World Fair Hackathon winner - Optimizing code to reduce digital carbon footprints.
 
-• Refactor Earth 🌿: AI Engineer World Fair Hackathon winner - Optimizing code to reduce digital carbon footprints.
+## Research to Practice
 
-Research to Practice:
-• Pixel Pioneers 💡: 100+ tutorials applying GenAI/ML to healthcare, materials science, and sustainability.
+- **Pixel Pioneers 💡**: 100+ tutorials applying GenAI/ML to healthcare, materials science, and sustainability.
+- 
+- **Sea Sifter (SIFTER) 🌊**: GenAI/ML solutions for microplastic pollution.
+- 
+- **EMBER 🔥🆘**: AI-powered personalized wildfire evacuation guidance.
 
-• Sea Sifter (SIFTER) 🌊: GenAI/ML solutions for microplastic pollution.
+## Experimental
 
-• EMBER 🔥🆘: AI-powered personalized wildfire evacuation guidance.
+- **Synthetix 🤖**: Vision tools for robotics.
+- 
+- **AI Sustainability Agent 🌱**: Eco-awareness chatbot.
+- 
+- **ISBRT 🛡️**: Enhancing LLM security through adversarial testing.
+- 
+- **Mythrul 🌍**: Exploring sustainable blockchain solutions.
 
-Experimental:
+## Beyond GitHub
 
-• Synthetix 🤖: Vision tools for robotics.
+- **Anandamide Sound Machine 🎵**: AI-assisted music creation.
+- 
+- **CRIXLabs 🏥**: Drug discovery database management (first startup).
 
-• AI Sustainability Agent 🌱: Eco-awareness chatbot.
+## Innovating for impact! 🚀
 
-• ISBRT 🛡️: Enhancing LLM security through adversarial testing.
-
-• Mythrul 🌍: Exploring sustainable blockchain solutions.
-
-Beyond GitHub:
-
-• Anandamide Sound Machine 🎵: AI-assisted music creation.
-
-• CRIXLabs 🏥: Drug discovery database management (first startup).
-
-Innovating for impact! 🚀
-Twitter: @SynthCircuit (est. 2024)
+Twitter: [@SynthCircuit](https://twitter.com/SynthCircuit) (est. 2024)

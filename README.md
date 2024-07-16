@@ -26,7 +26,7 @@
 
 - **Anandamide Sound Machine 🎵**: AI-assisted music creation.
   
-- **CRIXLabs 🏥**: Drug discovery database management (first startup).
+- **CRIXLabs 🏥**: Drug discovery and AI (first startup).
 
 ## Innovating for impact! 🚀
 

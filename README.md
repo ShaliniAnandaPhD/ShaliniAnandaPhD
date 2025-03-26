@@ -31,3 +31,12 @@
 ## Innovating for impact! 🚀
 
 Twitter: [@SynthCircuit](https://twitter.com/SynthCircuit) (est. 2024)
+
+
+# Open Source Attribution Notice
+
+This project incorporates various open source tools and libraries that deserve proper credit and recognition. All third-party components are used in accordance with their respective licenses.
+
+Using open source software without proper attribution or in violation of license terms is not only ethically problematic but may also constitute a legal violation. I believe in supporting the open source community that makes projects like this possible.
+
+If you're using code or tools from this repository, please ensure you maintain all attribution notices and comply with all applicable licenses.

@@ -33,7 +33,7 @@
 Twitter: [@SynthCircuit](https://twitter.com/SynthCircuit) (est. 2024)
 
 
-# Open Source Attribution Notice 🌟
+# Open Source Attribution Notice 
 
 This GitHub profile incorporates various open source tools and libraries that deserve proper credit and recognition. All third-party components are used in accordance with their respective licenses.
 

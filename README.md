@@ -1,6 +1,17 @@
 # AI Projects Tackling Real-World Challenges 🌟
 
-[Sponsorship Tiers for projects created with real world data](https://github.com/sponsors/ShaliniAnandaPhD) for Refactor Earth, Neuron, OptimaQ
+### Sponsorship Tiers for Projects Created with Real-World Data
+
+- [Refactor Earth](https://github.com/ShaliniAnandaPhD/RefactorEarth)
+- [Neuron](https://github.com/ShaliniAnandaPhD/Neuron)
+- [PRISM](https://github.com/ShaliniAnandaPhD/PRISM)
+- [OptimaQ](https://github.com/ShaliniAnandaPhD/OptimaQ)
+- [Pixel Pioneers](https://github.com/ShaliniAnandaPhD/PixelPioneers)
+- [Synaptic Grid](https://github.com/ShaliniAnandaPhD/SynapticGrid)
+
+
+[Become a Sponsor](https://github.com/sponsors/ShaliniAnandaPhD)
+
 
 ## Award-Winning
 

@@ -1,6 +1,6 @@
 # AI Projects Tackling Real-World Challenges 🌟
 
-[View Sponsorship Tiers](https://github.com/sponsors/ShaliniAnandaPhD) for Refactor Earth, Neuron, OptimaQ
+[Sponsorship Tiers for projects created with real world data](https://github.com/sponsors/ShaliniAnandaPhD) for Refactor Earth, Neuron, OptimaQ
 
 ## Award-Winning
 

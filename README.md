@@ -33,6 +33,9 @@
 Twitter: [@SynthCircuit](https://twitter.com/SynthCircuit) (est. 2024)
 
 
+[View Sponsorship Tiers](https://github.com/sponsors/ShaliniAnandaPhD) for Refactor Earth, Neuron, OptimaQ
+
+
 # Open Source Attribution Notice 
 
 This GitHub profile incorporates various open source tools and libraries that deserve proper credit and recognition. All third-party components are used in accordance with their respective licenses.

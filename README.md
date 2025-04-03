@@ -32,7 +32,6 @@
 
 ## Innovating for impact! 🚀
 
-Twitter: [@SynthCircuit](https://twitter.com/SynthCircuit) (est. 2024)
 
 
 

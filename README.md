@@ -1,5 +1,7 @@
 # AI Projects Tackling Real-World Challenges 🌟
 
+[View Sponsorship Tiers](https://github.com/sponsors/ShaliniAnandaPhD) for Refactor Earth, Neuron, OptimaQ
+
 ## Award-Winning
 
 - **Refactor Earth 🌿**: AI Engineer World Fair Hackathon winner - Optimizing code to reduce digital carbon footprints.
@@ -32,8 +34,6 @@
 
 Twitter: [@SynthCircuit](https://twitter.com/SynthCircuit) (est. 2024)
 
-
-[View Sponsorship Tiers](https://github.com/sponsors/ShaliniAnandaPhD) for Refactor Earth, Neuron, OptimaQ
 
 
 # Open Source Attribution Notice 

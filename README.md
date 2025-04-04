@@ -1,14 +1,17 @@
 # AI Projects Tackling Real-World Challenges 🌟
 
-### Sponsorship Tiers for Projects Created with Real-World Data
+### **Sponsor Cutting-Edge AI & Data-Driven Innovations**  
 
-- [Refactor Earth](https://github.com/ShaliniAnandaPhD/RefactorEarth)
-- [Neuron](https://github.com/ShaliniAnandaPhD/Neuron)
-- [PRISM](https://github.com/ShaliniAnandaPhD/PRISM)
-- [OptimaQ](https://github.com/ShaliniAnandaPhD/OptimaQ)
-- [Pixel Pioneers](https://github.com/ShaliniAnandaPhD/PixelPioneers)
-- [Synaptic Grid](https://github.com/ShaliniAnandaPhD/SynapticGrid)
+Support transformative projects leveraging real-world data to drive sustainability, AI security, legal tech, and intelligent systems:  
 
+- 🌿 [**Refactor Earth**](https://github.com/ShaliniAnandaPhD/RefactorEarth) – AI-powered code optimization for reducing digital carbon footprints.  
+- 🧠 [**Neuron**](https://github.com/ShaliniAnandaPhD/Neuron) – A flexible AI agent framework for robotics, automation, and intelligent decision-making.  
+- ⚖️ [**PRISM**](https://github.com/ShaliniAnandaPhD/PRISM) – AI-driven legal tech enhancing document processing and analysis.  
+- 📊 [**OptimaQ**](https://github.com/ShaliniAnandaPhD/OptimaQ) – Data-driven decision optimization for business intelligence and strategic planning.  
+- 💡 [**Pixel Pioneers**](https://github.com/ShaliniAnandaPhD/PixelPioneers) – 100+ GenAI/ML tutorials for real-world applications in healthcare, sustainability, and science.  
+- 🏙️ [**Synaptic Grid**](https://github.com/ShaliniAnandaPhD/SynapticGrid) – AI-powered smart city solutions optimizing energy, waste, and infrastructure.  
+
+🚀 **Join us in shaping the future—become a sponsor today!**
 
 [Become a Sponsor](https://github.com/sponsors/ShaliniAnandaPhD)
 

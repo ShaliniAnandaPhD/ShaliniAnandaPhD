@@ -1,6 +1,6 @@
 # AI Projects Tackling Real-World Challenges 🌟
 
-### **Sponsor Cutting-Edge AI & Data-Driven Innovations**  
+### **Sponsor Open Source AI for Planet, People & Progress**  
 
 Support transformative projects leveraging real-world data to drive sustainability, AI security, legal tech, and intelligent systems:  
 

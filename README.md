@@ -7,7 +7,7 @@ Support transformative projects leveraging real-world data to drive sustainabili
 - 🌿 [**Refactor Earth**](https://github.com/ShaliniAnandaPhD/RefactorEarth) – AI-powered code optimization for reducing digital carbon footprints.  
 - 🧠 [**Neuron**](https://github.com/ShaliniAnandaPhD/Neuron) – A flexible AI agent framework for robotics, automation, and intelligent decision-making.  
 - ⚖️ [**PRISM**](https://github.com/ShaliniAnandaPhD/PRISM) – AI-driven legal tech enhancing document processing and analysis (used this to manage case load with a legal aid firm).  
-- 📊 [**OptimaQ**](https://github.com/ShaliniAnandaPhD/OptimaQ) – Data-driven decision optimization for business intelligence and strategic planning.  
+- 📊 [**OptimaQ**](https://github.com/ShaliniAnandaPhD/OptimaQ) – Data-driven decision optimization for patient care  
 - 💡 [**Pixel Pioneers**](https://github.com/ShaliniAnandaPhD/PixelPioneers) – 100+ GenAI/ML tutorials for real-world applications in healthcare, sustainability, and science.  
 - 🏙️ [**Synaptic Grid**](https://github.com/ShaliniAnandaPhD/SynapticGrid) – AI-powered smart city solutions optimizing energy, waste, and infrastructure.  
 

@@ -19,7 +19,7 @@ Support transformative projects leveraging real-world data to drive sustainabili
 ## Award-Winning
 
 - **Refactor Earth 🌿**: AI Engineer World Fair Hackathon winner - Optimizing code to reduce digital carbon footprints.
-- **Climate Justice ** : Won the Weights and Biases Hackathon 2025 - Using multiagents to mitigate bias in insurance claims and processing
+- Climate Justice  : Won the Weights and Biases Hackathon 2025 - Using multiagents to mitigate bias in insurance claims and processing
 
 ## Research to Practice
 
